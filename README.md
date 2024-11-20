@@ -1,5 +1,3 @@
-[x] Baseline implementation
-
-[] Check for feasibility of suggested features
-
-[] Perform preprocessing better
+- [x] Baseline implementation
+- [ ] Check for feasibility of suggested features
+- [ ] Perform preprocessing better
